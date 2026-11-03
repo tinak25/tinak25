@@ -23,4 +23,4 @@ I like checking whether a result is real before I report it. In my projects I fo
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/tinakumari/) · [Tableau Public](PASTE-YOUR-TABLEAU-LINK) · tinakumarii733@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tinakumari/) · [Tableau Public](https://public.tableau.com/app/profile/tina.kumari) · tinakumarii733@gmail.com
