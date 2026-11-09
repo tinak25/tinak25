@@ -1,6 +1,6 @@
 ### Hi, I'm Tina 👋
 
-Computer Science graduate (Data Science major) from Deakin University, based in Melbourne and looking for graduate roles in data analysis and data science.
+Computer Science graduate from Deakin University (Data Science major) based in Melbourne. Open to Data Analyst, Reporting Analyst and Data Science roles: graduate programs, junior positions, and contract or full-time opportunities.
 
 I like checking whether a result is real before I report it. In my projects I found a published 98.5% accuracy that was really 83%, charts running on simulated data, and an attack detector reading port numbers. Each project shows the problem, the fix and the honest result.
 
